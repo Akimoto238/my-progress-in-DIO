@@ -1,0 +1,11 @@
+## Tags para Linux
+
+<a> é uma âncora
+
+<a>Link</a>
+
+<a href="linkedin.com/in/vilaboim">Linkedln</a>
+<a href="mailto:lucas@vilaboim.com">E-mail</a>
+
+<a target="_blank">Link</a>
+
