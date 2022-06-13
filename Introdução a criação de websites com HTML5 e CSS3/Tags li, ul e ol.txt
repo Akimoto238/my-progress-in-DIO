@@ -1,0 +1,11 @@
+## Tags que criam listas
+
+<ul> - É uma lista desordenada:
+Item 1
+Item 2
+
+<ol> - É uma lista ordenada:
+1. Item 1
+2. Item 2
+
+<li> - É um item de uma lista.
