@@ -1,0 +1,17 @@
+# Estilizando Textos
+
+## font-weight
+
+#title {
+	font-weight: normal;
+}
+
+.subtitle {
+	font-weight: bold;
+
+}
+
+Altera o peso do texto, existem palavras chaves e valores númericos.
+O normal seria o peso comum, do jeito que foi desenhada.
+O bold é o negrito.
+

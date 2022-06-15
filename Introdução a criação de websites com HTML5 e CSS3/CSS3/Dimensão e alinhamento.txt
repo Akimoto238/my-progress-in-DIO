@@ -1,0 +1,16 @@
+# Dimensão e Alinhamento
+
+Width  = Largura - 900px
+Height = Altura - 100px
+
+Servem para ajustar largura e altura
+
+Max-Width
+Max-Height
+
+Refere ao máximo que pode ter de largura e altura
+
+Margin - serve para colocar espaçamento entre elementos, mas alinha automaticamente.
+
+Text align - serve para alinhar textos
+

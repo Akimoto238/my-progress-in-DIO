@@ -1,0 +1,26 @@
+# Estilizando Elementos
+
+## Background:
+
+Essa propriedade é um atalho para diversas propriedades:
+ - Podemos mudar a cor do fundo
+ - colocar uma imagem
+ - alterar a posição da imagem
+
+exemplo:
+
+.post  {
+	background-color: green;
+	background-image: url("bg.png");
+	background-position: top;
+}
+
+### Como mudar a cor de fundo (background):
+
+.post {
+	background-color: green;
+	background-color: #008800;
+	background; #008000;
+}
+
+

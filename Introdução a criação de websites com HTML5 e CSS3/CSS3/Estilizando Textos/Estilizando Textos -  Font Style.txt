@@ -1,0 +1,13 @@
+# Estilizando Textos
+
+## Font-style
+
+#title {
+	font-style: normal;
+}
+
+.subtitle {
+	font-style: italic;
+
+}
+ Lembrar se a fonte tem suporte ao italico.

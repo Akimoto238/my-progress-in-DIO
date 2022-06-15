@@ -1,0 +1,56 @@
+# Estilizando Elementos
+
+## Border:
+
+A propriedade Border pode ter três valores:
+
+- Largura: pixels, centímetros, milímetros...
+- Cor: blue, #0000ff...
+- Estilo: sólida, pontilhada, tracejada...
+
+Exemplo:
+
+.post { 
+	border: 3px solid blue;
+	border-top: 2px dotted green;
+	border-right: 4px dashed pink;
+}
+
+Solid =  Solido
+Dotted = Pontilhado
+Dashed = Tracejado
+
+## Propriedades especificas:
+
+border-top:
+border-right: 
+border-bottom:
+border-left:
+
+## Propriedades especificas para cada aspecto da borda:
+
+.post {
+	border-width: 3px;
+	border-color: #505050;
+	border-style: solid;
+}
+
+
+Podes adicionar qual lado quer mudar, assim:
+
+.post {
+	border-top-width: 3px;
+	border-top-color: #505050;
+	border-top-style: solid;
+}
+
+## Border-radius, arredondar os cantos de um elemento:
+
+Podes usar várias unidades, como px e %
+
+Border-radius: 10 px;
+Border-radius: 50% (se colocado em um elemento quadrado, vai fazer ele ficar redondo)
+Border-radius: 10% 20%
+border-radius: 10% 20% 15% 22%
+
+Segue a mesma ordem antes apresentada em "Estilizando Elementos".

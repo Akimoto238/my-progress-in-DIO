@@ -1,0 +1,18 @@
+# Estilizando Textos
+
+## Font-family
+
+#title {
+	font-family: Verdana;
+}
+
+.post_title {
+	font-family: Verdana, Arial;
+
+}
+
+Podem ser usados fontes da Web ou instaladas na sua máquina
+
+São chamadas assim pois se encontram na maioria dos dispositivos.
+
+No segundo exemplo temos duas fontes, pois se a primeira não funcionar,a segunda será um backup. 

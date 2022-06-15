@@ -1,0 +1,47 @@
+# Estilizando Elementos
+
+## Padding e Margin:
+
+Eixo Y = Superior e inferior
+Eixo X = Esquerda e direita
+
+### Usando o Padding com o mesmo valor para todos os lados:
+
+.post {
+	padding : 10px;
+
+}
+
+### Usando o Padding com valores diferentes, sendo o primeiro para o eixo Y e o segundo para o eixo X:
+
+.post {
+	padding : 10px, 5px;
+
+}
+
+### Neste exemplos temos um valor para cada lado:
+
+.post {
+	padding : 15px 10px 5px 0; 
+
+}
+
+15px para o topo
+10 px para a direita
+5px para a parte inferior
+e 0 para a esquerda
+Quando é valor 0 não precisar usar uma unidade
+Sempre nesta ordem.
+
+### Propriedades especificas:
+
+.post {
+	padding-top: 15px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 0;
+
+}
+
+Isso é mais usado para quando queremos que só um lado seja diferente
+

@@ -1,0 +1,18 @@
+# Estilizando Texto
+
+## Text Decoration
+
+#title {
+	text-decoration: underline;
+}
+
+.subtitle {
+	text-decoration: overline;
+
+}
+
+.post_title {
+	text-decoration: line-through;
+
+}
+

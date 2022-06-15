@@ -1,0 +1,7 @@
+A tag img não tem fechamento
+
+<img>
+
+<img src="img/avatar.jpg">
+
+<img alt="Foto de Samuel Akimoto

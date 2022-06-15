@@ -1,0 +1,26 @@
+# Estilizando Listas
+
+## list-style-type:
+
+
+ul {
+	list-style-type: square;
+}
+
+
+ol {
+	list-style-type: upper-roman;
+}
+
+
+ul {
+	list-style-type: "\1F44D";
+}
+
+### Para imagens:
+
+ul {
+	list-style-image: url("batata.png");
+}
+
+

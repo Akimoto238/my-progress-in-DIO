@@ -1,0 +1,19 @@
+# Estilizando Textos
+
+## Text-transform
+
+
+#title {
+	text-transform: uppercase;
+}
+
+.subtitle {
+	text-transform: lowercase;
+
+}
+
+.post_title {
+	text-transform: capitalize;
+
+}
+
