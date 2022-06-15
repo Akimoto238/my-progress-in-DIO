@@ -1,9 +1,0 @@
-## Box Model 
-
-Margin - são os espaçamentos entre elementos
-
-Border - circundam o padding e o content, podemos alterar a aparência delas, como largura e cor
-
-Padding - é o espaçamento entre border e content
-
-Content - é o que o seu conteúdo representa
