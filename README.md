@@ -2,7 +2,6 @@
 
 Estou fazendo o Bootcamp *"TQI Fullstack Developer"*, já fiz os seguintes cursos dentro dele:
 
-<<<<<<< HEAD
 - Introdução ao Git e ao Github
 - Introdução a criação de websites com HTML5 e CSS3
 
